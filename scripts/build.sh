@@ -8,6 +8,8 @@ fi
 mkdir -p build/_
 mkdir -p build/brands
 '01.01.01'
+'2222222'
+'master'
 # Clone MDI icons
 rm -f -r mdi
 git clone --depth=1 https://github.com/Templarian/MaterialDesign mdi
