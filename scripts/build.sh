@@ -13,6 +13,9 @@ mkdir -p build/brands
 'kiciwjeiwjew'
 'iewiojewje'
 ';ewopoerfeof'
+'git'
+
+'pkjiojpiojk'
 # Clone MDI icons
 rm -f -r mdi
 git clone --depth=1 https://github.com/Templarian/MaterialDesign mdi
